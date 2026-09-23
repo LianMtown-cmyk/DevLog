@@ -1,0 +1,3 @@
+-events sollen nicht stoppen sobald sie global sind und man dann leavt. also es soll dann global weiter laufen, stell dir vor, ich starte das lava event für 5 min global und ich leave und rejoine, dann sollte ja das event immer noch laufen, aber das tut es nicht
+-die toplisten aktuallisieren sich nicht gut genug, also jede 20 sekunden soll es refreshen und alle werte wirklich live updaten
+-bei dem slider bei den settings für die musik, wenn ich den bewege, dann wird der active frame ein bischen größer nach unten also y, fix das und max also 100% sind bei der active bar dann x scale 626 ist. und es soll natürlich bei jedem gerät dann angepasst sein
